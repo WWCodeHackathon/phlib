@@ -1,0 +1,404 @@
+{
+    "libraries": [
+        {
+            "name": "National Library of the Philippines",
+            "address": "Rizal Park, Kalaw Avenue, Ermita, Manila",
+            "type": "Major public library",
+            "lat": 14.58160,
+            "long": 120.98028,
+            "website": "https://web.nlp.gov.ph/"
+        },
+        {
+            "name": "Manila City Library",
+            "address": "Mehan Garden, Ermita, Manila",
+            "type": "Major public library",
+            "lat": 14.58612,
+            "long": 120.98305,
+            "website": "https://www.facebook.com/ManilaCityLib/"
+        },
+        {
+            "name": "Marikina City Library",
+            "address": "V. Gomez, Shoe Avenue, San Roque, Marikina City",
+            "type": "Major public library",
+            "lat": 14.63042,
+            "long": 121.09619,
+            "website": "http://marikina-library.weebly.com/#/"
+        },
+        {
+            "name": "Pasig City Library and Science Discovery Centrum",
+            "address": "Caruncho Avenue, San Nicolas, Pasig City",
+            "type": "Major public library",
+            "lat": 14.56145,
+            "long": 121.07822,
+            "website": "https://pasigcitylibrary.wordpress.com/"
+        },
+        {
+            "name": "Quezon City Main Public Library",
+            "address": "City Hall Compound, Mayaman Street, Diliman, Quezon City",
+            "type": "Major public library",
+            "lat": 14.64653,
+            "long": 121.05001,
+            "website": "https://web.quezoncitypubliclibrary.org/"
+        },
+        {
+            "name": "Valenzuela City Library",
+            "address": "MacArthur Highway, Malinta, Valenzuela City",
+            "type": "Major public library",
+            "lat": 14.69255,
+            "long": 120.96574,
+            "website": "https://www.facebook.com/profile.php?id=100083279945372"
+        },
+        {
+            "name": "Filipinas Heritage Library",
+            "address": "Ayala Museum, Dela Rosa Street, Makati City",
+            "type": "Private library",
+            "lat": 14.55376,
+            "long": 121.02340,
+            "website": "https://www.filipinaslibrary.org.ph/"
+        },
+        {
+            "name": "Jose P. Laurel Library and Museum",
+            "address": "Roxas Boulevard corner Pedro Gil Street, Ermita, Manila",
+            "type": "Private library",
+            "lat": 14.57351,
+            "long": 120.98165,
+            "website": "https://www.facebook.com/jplmf/"
+        },
+        {
+            "name": "Lopez Museum and Library",
+            "address": "Exchange Road corner Meralco Avenue, Ortigas Center, Pasig City",
+            "type": "Private library",
+            "lat": 14.57655,
+            "long": 121.08501,
+            "website": "https://lopezlibrary.org.ph/"
+        },
+        {
+            "name": "Ortigas Foundation Library",
+            "address": "Ortigas Avenue corner Meralco Avennue, Ortigas Center, Pasig City",
+            "type": "Private library",
+            "lat": 14.60310,
+            "long": 121.04850,
+            "website": "https://www.ortigasfoundationlibrary.com.ph/"
+        },
+        {
+            "name": "Korean Cultural Center in the Philippines (KCC) Library",
+            "address": "Bayani Road, Fort Bonifacio, Taguig City",
+            "type": "Private library",
+            "lat": 14.52699,
+            "long": 121.04274,
+            "website": "https://phil.korean-culture.org/en"
+        },
+        {
+            "name": "Kapitan Isidro Mendoza Public Library",
+            "address": "Teodoro San Luis corner Central Street, Pandacan, Manila",
+            "type": "Community library",
+            "lat": 14.59174,
+            "long": 121.00310,
+            "website": "https://www.facebook.com/p/Kapitan-Isidro-Mendoza-Public-Library-MCL-100064583690313/"
+        },
+        {
+            "name": "Quezon City Public Library - Novaliches Branch",
+            "address": "Quirino Highway, Novaliches, Quezon City",
+            "type": "Community library",
+            "lat": 14.72190,
+            "long": 121.03944,
+            "website": "https://web.quezoncitypubliclibrary.org/"
+        },
+        {
+            "name": "Quezon City Public Library - Project 8 Branch",
+            "address": "Road 15 corner Road 19, Project 8, Quezon City",
+            "type": "Community library",
+            "lat": 14.66441,
+            "long": 121.02056,
+            "website": "https://web.quezoncitypubliclibrary.org/"
+        },
+        {
+            "name": "Quezon City Public Library - Bagong Pag-asa Branch",
+            "address": "Road 9, Bagong Pag-asa, Quezon City",
+            "type": "Community library",
+            "lat": 14.66273,
+            "long": 121.03386,
+            "website": "https://web.quezoncitypubliclibrary.org/"
+        },
+        {
+            "name": "Quezon City Public Library - Talipapa Branch",
+            "address": "Quirino Highway, Talipapa, Quezon City",
+            "type": "Community library",
+            "lat": 14.68789,
+            "long": 121.02527,
+            "website": "https://web.quezoncitypubliclibrary.org/"
+        },
+        {
+            "name": "San Juan Municipal Library",
+            "address": "Sagat, Paco, San Juan City",
+            "type": "Community library",
+            "lat": 14.57815,
+            "long": 120.99709,
+            "website": "N/A"
+        },
+        {
+            "name": "Pasay City Library",
+            "address": "Pasay City Hall, Harrison Street, Pasay City",
+            "type": "Community library",
+            "lat": 14.56231,
+            "long": 120.99352,
+            "website": "https://www.facebook.com/p/Pasay-Aklatan-100072059480725/?paipv=0&eav=Afb-Iz6D1aUAYhtMier399ILeoStGFH_LcD6_hr0sxS8h-cXAd6LCjtaSfWhFaB4pkY&_rdr"
+        },
+        {
+            "name": "Pag-asa Community Library",
+            "address": "Pag-asa Street, Malate, Manila",
+            "type": "Community library",
+            "lat": 14.56837,
+            "long": 120.99721,
+            "website": "https://www.lahatngbata.org/"
+        },
+        {
+            "name": "Quezon City Public Library - Greater Project 4 Branch",
+            "address": "P. Tuazon Avenue, Project 4, Quezon City",
+            "type": "Community library",
+            "lat": 14.62322,
+            "long": 121.06802,
+            "website": "https://web.quezoncitypubliclibrary.org/"
+        },
+        {
+            "name": "Las Piñas City Library",
+            "address": "Diego Cera Avenue, Daniel Fajardo, Las Piñas City",
+            "type": "Community library",
+            "lat": 14.48069,
+            "long": 120.98146,
+            "website": "https://www.facebook.com/LPCityLibrary/"
+        },
+        {
+            "name": "Makati City Library",
+            "address": "Makati City Hall, J.P. Rizal Street, Poblacion, Makati City",
+            "type": "Community library",
+            "lat": 14.57232,
+            "long": 121.02657,
+            "website": "N/A"
+        },
+        {
+            "name": "San Nicolas Public Library",
+            "address": "Madrid Street corner San Fernando Street, Binondo, Manila",
+            "type": "Community library",
+            "lat": 14.59759,
+            "long": 120.97056,
+            "website": "https://www.facebook.com/p/San-Nicolas-Public-Library-100070207410814/"
+        },
+        {
+            "name": "Navotas City Library",
+            "address": "M. Naval Street, Navotas City",
+            "type": "Community library",
+            "lat": 14.65732,
+            "long": 120.94839,
+            "website": "https://www.facebook.com/NavotasLibrary/"
+        },
+        {
+            "name": "Quezon City Public Library - Payatas Lupang Pangako Branch",
+            "address": "Lupang Pangako Street corner Bulacan Street, Payatas, Quezon City",
+            "type": "Community library",
+            "lat": 14.71906,
+            "long": 121.10709,
+            "website": "https://web.quezoncitypubliclibrary.org/"
+        },
+        {
+            "name": "Malabon City Library",
+            "address": "Sanciangco Street, Catmon, Malabon City",
+            "type": "Community library",
+            "lat": 14.67132,
+            "long": 120.95988,
+            "website": "https://www.facebook.com/p/Malabon-City-Library-100070207322698/"
+        },
+        {
+            "name": "Quezon City Public Library - Roxas Branch",
+            "address": "8 Jasmin Street, Quezon City",
+            "type": "Community library",
+            "lat": 14.62862,
+            "long": 121.02060,
+            "website": "https://web.quezoncitypubliclibrary.org/"
+        },
+        {
+            "name": "Valeriano E. Fugoso Library",
+            "address": "Lacson Avenue corner Aragon Street, 343 Zone 34, Santa Cruz, Manila",
+            "type": "Community library",
+            "lat": 14.61625,
+            "long": 120.98696,
+            "website": "https://www.facebook.com/p/Valeriano-E-Fugoso-Library-100064338173504/"
+        },
+        {
+            "name": "Quezon City Public Library - Lagro Branch",
+            "address": "Ascension Avenue, Novaliches, Quezon City",
+            "type": "Community library",
+            "lat": 14.72664,
+            "long": 121.06666,
+            "website": "https://web.quezoncitypubliclibrary.org/"
+        },
+        {
+            "name": "Taguig City Library",
+            "address": "General Luna Street, Taguig City",
+            "type": "Community library",
+            "lat": 14.52923,
+            "long": 121.07032,
+            "website": "https://www.facebook.com/TaguigCityLibrary/"
+        },
+        {
+            "name": "Patricia Complex Public Library",
+            "address": "Benita Street, Tondo, Manila",
+            "type": "Community library",
+            "lat": 14.63105,
+            "long": 120.97186,
+            "website": "N/A"
+        },
+        {
+            "name": "Parañaque City Public Library",
+            "address": "Col. E.L. De Leon, Sto. Niño, Parañaque City",
+            "type": "Community library",
+            "lat": 14.50051,
+            "long": 120.99524,
+            "website": "https://www.facebook.com/pcpl.main/"
+        },
+        {
+            "name": "Quezon City Public Library - Balingasa Branch",
+            "address": "Balingasa Street, A. Bonfacio, Quezon City",
+            "type": "Community library",
+            "lat": 14.65071,
+            "long": 121.00178,
+            "website": "https://web.quezoncitypubliclibrary.org/"
+        },
+        {
+            "name": "Muntinlupa City Public Library",
+            "address": "Poblacion Public Market, Rizal Street, Poblacion, Muntinlupa City",
+            "type": "Community library",
+            "lat":  14.38942,
+            "long": 121.04459,
+            "website": "https://www.facebook.com/OfficialMCPL/"
+        },
+        {
+            "name": "Manila-Sacramento Friendship Library",
+            "address": "Zamora Street, Paco, Manila",
+            "type": "Community library",
+            "lat": 14.58335,
+            "long": 120.99748,
+            "website": "N/A"
+        },
+        {
+            "name": "Arsenio H. Lacson Public Library",
+            "address": "Calderon Street, Santa Ana, Manila",
+            "type": "Community library",
+            "lat": 14.58080,
+            "long": 121.01356,
+            "website": "N/A"
+        },
+        {
+            "name": "Quezon City Public Library - Escopa 2 Branch",
+            "address": "Escopa 1, Project 4, Quezon City",
+            "type": "Community library",
+            "lat": 14.62527,
+            "long": 121.07392,
+            "website": "https://web.quezoncitypubliclibrary.org/"
+        },
+        {
+            "name": "Quezon City Public Library - Project 7 Branch",
+            "address": "Palomaria Street corner Bansalangin Street, Project 7, Quezon City",
+            "type": "Community library",
+            "lat": 14.65377,
+            "long": 121.02460,
+            "website": "https://web.quezoncitypubliclibrary.org/"
+        },
+        {
+            "name": "Quezon City Public Library - Bagumbayan Branch",
+            "address": "San Roque Steet, Bagumbayan, Quezon City",
+            "type": "Community library",
+            "lat": 14.60711,
+            "long": 121.08394,
+            "website": "https://web.quezoncitypubliclibrary.org/"
+        },
+        {
+            "name": "Manila-San Francisco Friendship Library",
+            "address": "Alvarez Street, 334 Zone 33, Manila",
+            "type": "Community library",
+            "lat": 14.61262,
+            "long": 120.98171,
+            "website": "N/A"
+        },
+        {
+            "name": "Bacood Public Library",
+            "address": "Biyaya Street, Bacood, Santa Mesa, Manila",
+            "type": "Community library",
+            "lat": 14.59214,
+            "long": 121.02017,
+            "website": "https://www.facebook.com/BacoodPublicLibrary.gov/"
+        },
+        {
+            "name": "Caloocan City Public Library",
+            "address": "10th Avenue, Caloocan City",
+            "type": "Community library",
+            "lat": 14.65100,
+            "long": 120.98034,
+            "website": "https://www.facebook.com/p/Caloocan-City-Public-Library-100066506418801/"
+        },
+        {
+            "name": "Ateneo de Manila University - Rizal Library",
+            "address": "Katipunan Avenue, Loyola Heights, Quezon City",
+            "type": "Academic library",
+            "lat": 14.64002,
+            "long": 121.07611,
+            "website": "http://rizal.library.ateneo.edu/"
+        },
+        {
+            "name": "Ateneo de Manila University - Ateneo Professional Schools Library",
+            "address": "Rockwell Drive, Rockwell Center, Makati City",
+            "type": "Academic library",
+            "lat": 14.56360,
+            "long": 121.03522,
+            "website": "https://apslibrary.ateneo.edu/"
+        },
+        {
+            "name": "De La Salle University Manila - The Learning Commons",
+            "address": "Taft Avenue, Malate, Manila",
+            "type": "Academic library",
+            "lat": 14.56542,
+            "long": 120.99299,
+            "website": "https://libcal.dlsu.edu.ph/"
+        },
+        {
+            "name": "Far Eastern University Library",
+            "address": "Nicanor Reyes Hall, Sampaloc, Manila",
+            "type": "Academic library",
+            "lat": 14.60405,
+            "long": 120.98548,
+            "website": "https://www.facebook.com/Library.FEU/"
+        },
+        {
+            "name": "Instituto Cervantes Miguel Hernandez Library",
+            "address": "Tower One & Exchange Plaza, Ayala Triangle, Ayala Avenue, Makati City",
+            "type":"Academic library",
+            "lat": 14.55684,
+            "long": 121.02251,
+            "website": "https://manila.cervantes.es/en/library_spanish/library_spanish.htm"
+        },
+        {
+            "name": "Polytechnic University of the Philippines - Ninoy Aquino Library and Learning Resources Center",
+            "address": "PUP Main Entrance Road, Santa Mesa, Manila",
+            "type": "Academic library",
+            "lat": 14.59787,
+            "long": 121.00973,
+            "website": "https://ils.pup.edu.ph/"
+        },
+        {
+            "name": "University of the Philippines Diliman Main Library",
+            "address": "Apacible Street, Diliman, Quezon City",
+            "type": "Academic library",
+            "lat": 14.65523,
+            "long": 121.07103,
+            "website": "https://mainlib.upd.edu.ph/"
+        },
+        {
+            "name": "University of Santo Tomas - Miguel de Benavides Library",
+            "address": "Albert Drive, Sampaloc, Manila",
+            "type": "Academic library",
+            "lat": 14.61137,
+            "long": 120.98834,
+            "website": "https://library.ust.edu.ph/"
+        }
+    ]
+}
