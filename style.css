@@ -15,3 +15,7 @@ body {
 #map {
   height: 90vh;
 }
+
+.infowindow-content {
+  padding: 1rem;
+}
